@@ -17,7 +17,7 @@
 
 
 
-2. []()
+2. [Plagiarism-Detection](https://github.com/nancyalaswad90/Plagiarism-Detection)
 
 
 3. [Capstone-Proposal](https://github.com/nancyalaswad90/Capstone-Proposal)
