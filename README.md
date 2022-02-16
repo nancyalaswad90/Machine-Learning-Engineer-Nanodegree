@@ -8,14 +8,10 @@
 
 
 
->  ![Ml](https://user-images.githubusercontent.com/36210723/104474640-e479b880-55c6-11eb-83f3-71cadacc17da.png)
 
 
 
-
-
-
-![Machine Learning Engineer](https://user-images.githubusercontent.com/36210723/154186422-24514467-3e56-45b9-a24f-2adc3bf5b834.png)
+> ![Machine Learning Engineer](https://user-images.githubusercontent.com/36210723/154186422-24514467-3e56-45b9-a24f-2adc3bf5b834.png)
 
 
 
